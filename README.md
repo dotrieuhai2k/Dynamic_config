@@ -14,5 +14,6 @@ docker build -t consultemplate .
 ```
 ## Up Docker-compose
 ```
+cd dynamic
 docker-compose up
 ```
