@@ -2,12 +2,12 @@
 
 ## Build docker container
 
-### Build container consul
+- ### Build container consul
 ```
 cd /dynamic/consul
 docker build -t consul .
 ```
-### Build container cosnul-template
+- ### Build container consul-template
 ```
 cd /dynamic/consul-template
 docker build -t consultemplate .
